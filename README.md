@@ -24,4 +24,6 @@ I tym sposobem można sobie samemu zbudować myjkę za niewielkie pieniądze, sa
 
 Powodzenia :)
 
+https://youtu.be/VPBSpM66at4 
+
 ![Image of Tumbler by Mario cad](https://github.com/mario73z/Rotary-Case-Tumbler/blob/main/INNE/1.jpg)
