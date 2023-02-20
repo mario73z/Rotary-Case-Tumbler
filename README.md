@@ -4,6 +4,8 @@ Tumbler do mokrego mycia łusek
 ![Image of Tumbler by Mario](https://github.com/mario73z/Rotary-Case-Tumbler/blob/main/INNE/20230219_141938449_iOSm.jpg)
 
 Hej
+
+
 Jeden z istotnych i nieco żmudnych etapów elaboracji amunicji to czyszczenie łusek lub nanoszenia powłok na pociski. Oczywiście jest mnóstwo tego typu urządzeń na rynku za mniejsze lub większe pieniądze. Ja jednak lubię projektować, i nie mniej ważne jak cel jest dla mnie też sama droga do niego, więc pochyliłem się nad tematem. Jako że to bardzo proste urządzenie, może go zbudować praktycznie każdy kto ma chociażby podstawy w elektronice i montażu urządzeń. 
 
 Całość zasilamy napięciem 12v, zasilacz musiał by wytrzymać obciążenia 2A
