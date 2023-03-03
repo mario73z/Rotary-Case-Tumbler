@@ -27,3 +27,8 @@ Powodzenia :)
 https://youtu.be/VPBSpM66at4 
 
 ![Image of Tumbler by Mario cad](https://github.com/mario73z/Rotary-Case-Tumbler/blob/main/INNE/1.jpg)
+
+# Nowe wersja bębna
+03.03.2023
+
+Na Waszą prośbę w katalogu v_2-0-2  dodałem poprawioną wersję bębna. Jest to wersja z zakrętką i pomniejszonymi wypustami wewnętrznymi. Zoptymalizowany został też projekt pod względem druku 3D, poprawiłem też niewielkie niedociągnięcia w projekcie cad. 
